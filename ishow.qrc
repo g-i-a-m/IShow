@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/IShow">
+        <file>res/close.ico</file>
+        <file>res/control.ico</file>
+        <file>res/copy.ico</file>
+        <file>res/copyimage.ico</file>
+        <file>res/open.ico</file>
+        <file>res/edit.ico</file>
+        <file>res/last.ico</file>
+        <file>res/next.ico</file>
+        <file>res/print.ico</file>
+        <file>res/IShow_1.ico</file>
+        <file>res/IShow_2.ico</file>
+        <file>res/IShow_3.ico</file>
+        <file>res/more.ico</file>
+    </qresource>
+    <qresource prefix="/Language">
+        <file>ishow_en.qm</file>
+        <file>ishow_zh.qm</file>
+    </qresource>
+    <qresource prefix="/picture">
+        <file>res/Email_72.png</file>
+        <file>res/bluff.gif</file>
+    </qresource>
+</RCC>

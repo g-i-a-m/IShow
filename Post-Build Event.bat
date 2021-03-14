@@ -1,0 +1,1 @@
+%QTDIR%/bin/windeployqt.exe ./Win32/Release/IShow.exe
